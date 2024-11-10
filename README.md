@@ -5,6 +5,11 @@ This is a sample express app with typescript support
 ## Development
 
 ```sh
+# .env
+PORT=3000  # Optional
+```
+
+```sh
 # run app in dev mode
 $ yarn dev
 
