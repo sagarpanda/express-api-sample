@@ -1,6 +1,7 @@
 .env
 yarn.lock
 package-lock.json
+mydb.sqlite
 
 dist
 node_modules
